@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name Yokozunita_ardu-rescue)(type Legacy)(uri ${KIPRJMOD}/Yokozunita_ardu-rescue.lib)(options "")(descr ""))
+  (lib (name st-microelectronics)(type Legacy)(uri "C:/Users/Manuel/Downloads/Cosas kikad/SwarmRobots-master/SwarmRobots-master/kicad/lib/st-microelectronics.lib")(options "")(descr ""))
+  (lib (name tsop)(type Legacy)(uri "C:/Users/Manuel/Downloads/Cosas kikad/SwarmRobots-master/SwarmRobots-master/kicad/lib/tsop.lib")(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri "C:/Users/Manuel/Downloads/Cosas kikad/kicad-libs-master/kicad-libs-master/arduino.lib")(options "")(descr ""))
+  (lib (name arduino_nano)(type Legacy)(uri "C:/Users/Manuel/Downloads/Cosas kikad/kicad_ArduinoNano-master/kicad_ArduinoNano-master/libraries/arduino_nano.lib")(options "")(descr ""))
+  (lib (name step_down_chino)(type Legacy)(uri "C:/Users/Manuel/Downloads/Cosas kikad/Librerias manu/step_down_chino.lib")(options "")(descr ""))
+  (lib (name QRE1113)(type Legacy)(uri "C:/Users/Manuel/Downloads/Cosas kikad/kicad-library-master (1)/kicad-library-master/libs/QRE1113.lib")(options "")(descr ""))
+  (lib (name L298P)(type Legacy)(uri "C:/Users/Manuel/Downloads/Cosas kikad/L298P/L298P.lib")(options "")(descr ""))
+)

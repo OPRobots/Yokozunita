@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Yokozunita_ardu-rescue)(type Legacy)(uri ${KIPRJMOD}/Yokozunita_ardu-rescue.lib)(options "")(descr ""))
+)
